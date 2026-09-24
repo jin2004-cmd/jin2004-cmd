@@ -34,7 +34,7 @@
 
 ### 🛠️ 工具栈
 
-- **AI 内容生产**：豆包 / DeepSeek / 通义千问（提示词工程）、Coze、Trae、Codex、Claude Code
+- **AI 内容生产**：豆包 / DeepSeek / 通义千问（提示词工程）、Trae、Codex、Claude Code
 - **AI 绘图与视频**：Seedream、Seedance、即梦、可灵、剪映
 - **能写点代码**：Python（独立写脚本 + pytest）、HTML/CSS/JS 单文件应用、Git / GitHub
 - **内容基本功**：千川投放素材逻辑、广告法合规、短视频脚本、剪辑
